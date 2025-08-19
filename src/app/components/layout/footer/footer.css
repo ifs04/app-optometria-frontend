@@ -1,0 +1,12 @@
+:host {
+  display: block;
+  font-family: 'Montserrat', sans-serif;
+}
+
+p {
+  font-family: 'Roboto', sans-serif; /* Asegura la fuente en el texto */
+  font-size: 0.8rem;                 /* Ajusta el tamaño del texto */
+  color: rgb(37, 99, 235);           /* Azul similar al que ya tienes */
+  margin: 0;
+  text-align: center;                /* Centra el texto */
+}

@@ -1,0 +1,16 @@
+.header {
+  display: flex;           /* Para que el logo y el texto estén en línea */
+  align-items: center;     /* Centra verticalmente */
+  gap: 10px;               /* Espacio entre logo y texto */
+  font-family: 'Roboto', sans-serif; /* Aplica la fuente al header */
+}
+
+.logo {
+  height: 50px;            /* Ajusta el tamaño del logo a tu gusto */
+}
+
+h1 {
+  color: rgb(125, 180, 235);
+  margin: 0;               /* Elimina el margen por defecto del h1 */
+  font-family: 'Roboto', sans-serif; /* También forzamos la fuente al título */
+}
