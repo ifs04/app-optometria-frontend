@@ -2,3 +2,10 @@
   display: block;
   font-family: 'Roboto', sans-serif; 
 }
+.botones{
+
+  width: 100%; /* Asegura que el menú ocupe todo el ancho del aside */
+  height: 100%; /* Asegura que el menú ocupe todo el alto del aside */
+  background-color: #99d9ea; /* Color de fondo del menú */
+
+}

@@ -14,9 +14,10 @@ main {
 /* Header */
 header {
   grid-area: header;
-  border: 2px solid lightblue; /* 👈 borde azul claro */
-  padding: 1rem;
+  border: 0px solid lightblue; /* 👈 borde azul claro */
   text-align: center;
+  background-color: #99d9ea;
+  justify-content: center;
 }
 
 /* Aside */
@@ -24,6 +25,7 @@ aside {
   grid-area: aside;
   border: 2px solid lightblue; /* 👈 borde azul claro */
   padding: 1rem;
+  background-color: #99d9ea;
 }
 
 /* Content (router-outlet) */
