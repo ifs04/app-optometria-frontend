@@ -1,17 +1,17 @@
  header .img{
-  width: 50px;            /* Ajusta el tamaño del logo a tu gusto */
-  height: auto;           /* Mantiene la proporción del logo */
-  align-items: center; /* Alinea verticalmente el logo */
-  display: flex;          /* Para que el logo se comporte como un elemento flexible */
-  justify-content: center; /* Centra el logo horizontalmente */
-  margin-right: 10px;    /* Espacio entre el logo y el título */
+  width: 50px;            
+  height: auto;           
+  align-items: center; 
+  display: flex;          
+  justify-content: center; 
+  margin-right: 10px;    
 }
 .logo {
-  height: 50px;            /* Ajusta el tamaño del logo a tu gusto */
+  height: 50px;           
 }
 
 h1 {
   color: #fafafa;
-  margin: 0;               /* Elimina el margen por defecto del h1 */
-  font-family: 'Roboto', sans-serif; /* También forzamos la fuente al título */
+  margin: 0;               
+  font-family: 'Roboto', sans-serif; 
 }
